@@ -3,7 +3,7 @@
  *  CSCI 470/680     Assignment 5       Summer 2018         *
  *                                                          *
  *  Programmer:  Usman Hussain                              *
- *               Nicholas Swanson                           *
+ *                                                          *
  *                                                          *
  *  Date Due:    07/30/2018                                 *
  *                                                          *
